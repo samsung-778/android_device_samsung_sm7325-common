@@ -1,4 +1,4 @@
-# All blobs are from A528BXXU2EWC1 (T), unless pinned
+# All blobs from a73xqxx-user 13 TP1A.220624.014 A736BXXU3CWD4 release-keys, unless pinned
 
 # ACDB
 vendor/lib/libacdb-fts.so
@@ -668,9 +668,11 @@ vendor/etc/display/DPU7__.xml
 vendor/etc/display/DPU660.xml
 vendor/etc/display/DPU670.xml
 vendor/etc/display/DPU720.xml
+
 # Vulkan
 vendor/lib/hw/vulkan.adreno.so
 vendor/lib64/hw/vulkan.adreno.so
+
 # Adreno
 vendor/lib/egl/libq3dtools_adreno.so
 vendor/lib64/egl/libq3dtools_adreno.so
@@ -971,6 +973,8 @@ vendor/bin/factory.ssc
 vendor/bin/sscrpcd
 vendor/etc/init/vendor.sensors.sscrpcd.rc
 vendor/etc/sensors/config/kodiak_ak991x_0.json
+vendor/etc/sensors/config/kodiak_ak991x_2.json
+vendor/etc/sensors/config/kodiak_ak991x_3.json
 vendor/etc/sensors/config/kodiak_default_sensors.json
 vendor/etc/sensors/config/sns_amd.json
 vendor/etc/sensors/config/sns_amd_sw_disabled.json
